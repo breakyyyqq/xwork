@@ -1,0 +1,15 @@
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/bin/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/bin/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.deps.json
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/bin/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.runtimeconfig.json
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/bin/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.dll
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/bin/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.pdb
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.csproj.AssemblyReference.cache
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.AssemblyInfoInputs.cache
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.AssemblyInfo.cs
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.csproj.CoreCompileInputs.cache
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.dll
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/refint/matematik(toplama-çıkarma-çarpma-bölme-working1.dll
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.pdb
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/matematik(toplama-çıkarma-çarpma-bölme-working1.genruntimeconfig.cache
+/Users/berkay/Desktop/xwork/matematik(toplama-çıkarma-çarpma-bölme-working1/matematik(toplama-çıkarma-çarpma-bölme-working1/obj/Debug/net7.0/ref/matematik(toplama-çıkarma-çarpma-bölme-working1.dll
