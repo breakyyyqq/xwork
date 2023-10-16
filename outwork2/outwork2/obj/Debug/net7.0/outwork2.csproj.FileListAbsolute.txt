@@ -1,0 +1,15 @@
+/Users/berkay/Projects/outwork2/outwork2/bin/Debug/net7.0/outwork2
+/Users/berkay/Projects/outwork2/outwork2/bin/Debug/net7.0/outwork2.deps.json
+/Users/berkay/Projects/outwork2/outwork2/bin/Debug/net7.0/outwork2.runtimeconfig.json
+/Users/berkay/Projects/outwork2/outwork2/bin/Debug/net7.0/outwork2.dll
+/Users/berkay/Projects/outwork2/outwork2/bin/Debug/net7.0/outwork2.pdb
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.csproj.AssemblyReference.cache
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.AssemblyInfoInputs.cache
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.AssemblyInfo.cs
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.csproj.CoreCompileInputs.cache
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.dll
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/refint/outwork2.dll
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.pdb
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/outwork2.genruntimeconfig.cache
+/Users/berkay/Projects/outwork2/outwork2/obj/Debug/net7.0/ref/outwork2.dll

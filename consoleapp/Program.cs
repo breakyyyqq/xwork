@@ -1,4 +1,6 @@
-﻿// /*
+﻿
+
+// /*
 
 // Uygulana 1: Bir öğrencinin aşağıdaki bilgileri için gerekli değişkenleri oluşturunuz.
 
@@ -51,7 +53,7 @@
 
 //      Value Types:
 //      Tam Sayı : byte, short, int, long
-//      Ondalıklı Sayılar: float, double, decimal
+//      Ondalıklı Sayılafr: float, double, decimal
 //      Diğer Veri Sayıları char, boolean, struct
 
 //      Reference Types:
@@ -88,6 +90,7 @@
 // int d = 10;  
 // long e = (int)d;  // bilinçli
 
+
 // double f = 20.5;
 // float g = (float)f; // parantez içinine alırsan değer kaybını kabul edip bir bilinçli tür değişimi yapmak istersin.
 
@@ -117,12 +120,116 @@ using System.Diagnostics.CodeAnalysis;
 
 // int? maas = null;  // eğer bir atama yapılmazsa null değeri alır.
 
-// int? maas = default;
+// int? maas  = default;
 // bool? isActive = null;
 
 // Console.WriteLine(maas.HasValue);
 // Console.WriteLine(maas.GetValueOrDefault());
 // Console.WriteLine(isActive.GetValueOrDefault());
+
+/*
+    String : Karakter Dizileri - reference => null
+*/
+
+// Console.Write("adı: ");
+// var ad = Console.ReadLine();
+
+// var soyad = Console.ReadLine();
+// Console.Write("soyad: ");
+
+// Console.Write("yas: ");
+// var yas = Console.ReadLine();
+
+// // string concat işlemi
+// //string mesaj = ad +" "+ soyad + " isimli kişi "+ yas + " yaşındadır.";
+
+// // string interpolation
+// string mesaj = $"{ad} {soyad} isimli kişi {yas} yaşındadır.";
+
+// Console.WriteLine(mesaj);
+
+
+/*
+    String Methods
+*/
+
+// string mesaj = "Berkay Kaymak isimli kişi {23} yaşındadır. ";
+
+// //var sonuc = mesaj.Length;
+// // var sonuc = mesaj.ToLower();
+// // var sonuc = mesaj.ToUpper();
+// // var sonuc = mesaj.Trim();
+// // var sonuc = mesaj.Split(" ")[3];
+// // var sonuc = mesaj [0];
+// // var sonuc = mesaj.EndsWith(".");
+// // var sonuc = mesaj.Contains("Berkay");
+// // var sonuc = mesaj.IndexOf("kişi");
+// // var sonuc = mesaj.Substring(6, 5);
+
+// Console.WriteLine(sonuc);
+
+/*
+    String Uygulamalar
+*/
+
+// string kursAdi = ".Net 7 ile C# Programlama Dili";
+
+// // 1- Kaç karaktere sahiptir?
+// // 2- Hepsini küçük harf yapınız.
+// // 3- '.' ile mi başlamaktadır?
+// // 4- C# bilgisi hangi konumda bulunmaktadır?
+// // 5- String 'C#' bilgisini içeriyor mu?
+// // 6- 'Dili' kelimesi yerine 'Dersleri' yazınız. (replace)
+
+// var karakterSayisi = kursAdi.Length;
+// Console.WriteLine(karakterSayisi); //30
+
+// var kucukHarf = kursAdi.ToLower();
+// Console.WriteLine(kucukHarf); // harfleri küçültme
+
+// var nokta = kursAdi.StartsWith('.');
+// Console.WriteLine("string . ile başlıyor: " + nokta); // 3?
+
+// var konum = kursAdi.IndexOf("C#"); // 4 
+// Console.WriteLine("konum " + konum);
+
+// var iceriyormu = kursAdi.Contains("C#"); // 5 
+// Console.WriteLine("C# içeriyor mu: " + iceriyormu);
+
+// var guncellenenString = kursAdi.Replace("Dili","Dersleri"); // 6
+// Console.WriteLine(guncellenenString);
+
+/*
+
+    DateTime
+
+*/
+
+// var simdi = DateTime.Now;
+
+// Console.WriteLine(simdi);
+// Console.WriteLine(simdi.Year);
+// Console.WriteLine(simdi.Month);
+// Console.WriteLine(simdi.Day);
+// Console.WriteLine(simdi.DayOfWeek);
+// Console.WriteLine(simdi.Hour);
+// Console.WriteLine(simdi.Minute);
+// Console.WriteLine(simdi.Second);
+
+// DateTime dt = new DateTime(2022, 6, 10, 14, 30, 45);
+// DateTime dt2 = dt.AddYears(1);
+// DateTime dt3 = dt.AddHours(2);
+
+// Console.WriteLine(dt2.Year);
+// Console.WriteLine(dt3.Hour);
+
+// var fark = simdi - dt;
+// Console.WriteLine(fark.TotalDays);
+// Console.WriteLine(fark.TotalHours);
+
+
+
+
 
 
 
