@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5B720F64-A570-4BE2-936B-CFF6FFC165FA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="outwork 3.1.2/Program.cs">
+    <Files>
+      <File FileName="outwork 3.1.2/Program.cs" Line="19" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="outwork 3.1.2" expanded="True">
+            <Node name="outwork 3.1.2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.outwork_2203.1.2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,25 +1,21 @@
 ﻿<Properties StartupConfiguration="{23916833-EECE-4CD6-9B54-2A66ABD6E81F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="matematik(toplama-çıkarma-çarpma-bölme-working1/Program.cs">
     <Files>
-      <File FileName="matematik(toplama-çıkarma-çarpma-bölme-working1/Program.cs" Line="8" Column="24" />
+      <File FileName="matematik(toplama-çıkarma-çarpma-bölme-working1/Program.cs" Line="11" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="matematik(toplama-çıkarma-çarpma-bölme-working1" expanded="True">
-            <Node name="matematik(toplama-çıkarma-çarpma-bölme-working1" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="matematik(toplama-çıkarma-çarpma-bölme-working1" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.matematik_228toplama-çıkarma-çarpma-bölme-working1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.matematik_228toplama-çıkarma-çarpma-bölme-working1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
