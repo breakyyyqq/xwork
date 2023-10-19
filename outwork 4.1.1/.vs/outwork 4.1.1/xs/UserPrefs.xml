@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2E42E29C-F1C7-4932-940D-B34515ED3963}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.outwork_2204.1.1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="outwork 4.1.1/Program.cs">
     <Files>
       <File FileName="outwork 4.1.1/Program.cs" Line="74" Column="1" />
@@ -11,7 +11,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="outwork 4.1.1" expanded="True">
-            <Node name="outwork 4.1.1">
+            <Node name="outwork 4.1.1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,7 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.outwork_2204.1.1 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
