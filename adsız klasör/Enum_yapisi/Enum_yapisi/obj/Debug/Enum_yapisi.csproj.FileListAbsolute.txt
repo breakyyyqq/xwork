@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\bin\Debug\Enum_yapisi.exe.config
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\bin\Debug\Enum_yapisi.exe
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\bin\Debug\Enum_yapisi.pdb
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.exe
+C:\Users\berkay\source\repos\udemy works\Enum_yapisi\Enum_yapisi\obj\Debug\Enum_yapisi.pdb

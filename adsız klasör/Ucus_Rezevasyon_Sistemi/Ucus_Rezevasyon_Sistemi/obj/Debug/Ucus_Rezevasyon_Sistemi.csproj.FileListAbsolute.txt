@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\bin\Debug\Ucus_Rezevasyon_Sistemi.exe.config
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\bin\Debug\Ucus_Rezevasyon_Sistemi.exe
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\bin\Debug\Ucus_Rezevasyon_Sistemi.pdb
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.exe
+C:\Users\berkay\source\repos\udemy works\Ucus_Rezevasyon_Sistemi\Ucus_Rezevasyon_Sistemi\obj\Debug\Ucus_Rezevasyon_Sistemi.pdb

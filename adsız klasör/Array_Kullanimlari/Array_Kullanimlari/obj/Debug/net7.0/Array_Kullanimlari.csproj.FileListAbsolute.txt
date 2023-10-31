@@ -1,0 +1,14 @@
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\bin\Debug\net7.0\Array_Kullanimlari.exe
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\bin\Debug\net7.0\Array_Kullanimlari.deps.json
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\bin\Debug\net7.0\Array_Kullanimlari.runtimeconfig.json
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\bin\Debug\net7.0\Array_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\bin\Debug\net7.0\Array_Kullanimlari.pdb
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.AssemblyInfoInputs.cache
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.AssemblyInfo.cs
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\refint\Array_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.pdb
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\Array_Kullanimlari.genruntimeconfig.cache
+C:\Users\berkay\source\repos\udemy works\Array_Kullanimlari\Array_Kullanimlari\obj\Debug\net7.0\ref\Array_Kullanimlari.dll

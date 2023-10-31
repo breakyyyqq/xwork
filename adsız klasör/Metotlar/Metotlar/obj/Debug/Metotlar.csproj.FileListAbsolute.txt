@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\berkay\source\repos\udemy works\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

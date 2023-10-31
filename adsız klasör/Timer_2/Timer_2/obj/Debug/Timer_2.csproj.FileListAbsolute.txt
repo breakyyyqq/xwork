@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\bin\Debug\Timer_2.exe.config
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\bin\Debug\Timer_2.exe
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\bin\Debug\Timer_2.pdb
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.exe
+C:\Users\berkay\source\repos\udemy works\Timer_2\Timer_2\obj\Debug\Timer_2.pdb

@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\bin\Debug\Ekstara_Araclar.exe.config
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\bin\Debug\Ekstara_Araclar.exe
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\bin\Debug\Ekstara_Araclar.pdb
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.exe
+C:\Users\berkay\source\repos\udemy works\Ekstara_Araclar\Ekstara_Araclar\obj\Debug\Ekstara_Araclar.pdb

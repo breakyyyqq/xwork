@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\bin\Debug\metot_pratik.exe.config
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\bin\Debug\metot_pratik.exe
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\bin\Debug\metot_pratik.pdb
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.Form1.resources
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.exe
+C:\Users\berkay\source\repos\udemy works\metot_pratik\metot_pratik\obj\Debug\metot_pratik.pdb

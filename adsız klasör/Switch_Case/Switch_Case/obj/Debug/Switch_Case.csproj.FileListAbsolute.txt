@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe.config
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\bin\Debug\Switch_Case.exe
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\bin\Debug\Switch_Case.pdb
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.exe
+C:\Users\berkay\source\repos\udemy works\Switch_Case\Switch_Case\obj\Debug\Switch_Case.pdb

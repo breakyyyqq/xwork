@@ -1,0 +1,14 @@
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\bin\Debug\net7.0\Methods_Kullanimlari.exe
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\bin\Debug\net7.0\Methods_Kullanimlari.deps.json
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\bin\Debug\net7.0\Methods_Kullanimlari.runtimeconfig.json
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\bin\Debug\net7.0\Methods_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\bin\Debug\net7.0\Methods_Kullanimlari.pdb
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.AssemblyInfoInputs.cache
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.AssemblyInfo.cs
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\refint\Methods_Kullanimlari.dll
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.pdb
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\Methods_Kullanimlari.genruntimeconfig.cache
+C:\Users\berkay\source\repos\udemy works\Methods_Kullanimlari\Methods_Kullanimlari\obj\Debug\net7.0\ref\Methods_Kullanimlari.dll

@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\bin\Debug\Sinema_bufe_satıs.exe.config
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\bin\Debug\Sinema_bufe_satıs.exe
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\bin\Debug\Sinema_bufe_satıs.pdb
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.exe
+C:\Users\berkay\source\repos\udemy works\Sinema_bufe_satıs\Sinema_bufe_satıs\obj\Debug\Sinema_bufe_satıs.pdb

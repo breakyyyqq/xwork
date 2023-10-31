@@ -1,0 +1,11 @@
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\bin\Debug\Formlararasiveritasima.exe.config
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\bin\Debug\Formlararasiveritasima.exe
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\bin\Debug\Formlararasiveritasima.pdb
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.Form2.resources
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.exe
+C:\Users\berkay\source\repos\udemy works\Formlararasiveritasima\Formlararasiveritasima\obj\Debug\Formlararasiveritasima.pdb

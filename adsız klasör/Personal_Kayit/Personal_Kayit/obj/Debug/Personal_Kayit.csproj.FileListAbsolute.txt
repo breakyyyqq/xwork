@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.exe.config
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.exe
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\bin\Debug\Personal_Kayit.pdb
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.exe
+C:\Users\berkay\source\repos\udemy works\Personal_Kayit\Personal_Kayit\obj\Debug\Personal_Kayit.pdb

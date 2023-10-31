@@ -1,0 +1,11 @@
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\bin\Debug\Random_Captcha.exe.config
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\bin\Debug\Random_Captcha.exe
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\bin\Debug\Random_Captcha.pdb
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.exe
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.pdb
+C:\Users\berkay\source\repos\udemy works\Random_Captcha\Random_Captcha\obj\Debug\Random_Captcha.Form2.resources

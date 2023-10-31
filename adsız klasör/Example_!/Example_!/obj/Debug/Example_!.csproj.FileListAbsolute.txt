@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\bin\Debug\Example_!.exe.config
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\bin\Debug\Example_!.exe
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\bin\Debug\Example_!.pdb
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example_!.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example__.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example__.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example_!.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example_!.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example_!.exe
+C:\Users\berkay\source\repos\udemy works\Example_!\Example_!\obj\Debug\Example_!.pdb

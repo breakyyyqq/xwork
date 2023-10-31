@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\bin\Debug\Arac_Kullanimlari2.exe.config
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\bin\Debug\Arac_Kullanimlari2.exe
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\bin\Debug\Arac_Kullanimlari2.pdb
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.exe
+C:\Users\berkay\source\repos\udemy works\Arac_Kullanimlari2\Arac_Kullanimlari2\obj\Debug\Arac_Kullanimlari2.pdb

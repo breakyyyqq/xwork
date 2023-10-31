@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\bin\Debug\Kullanici_Giris_Paneli.exe.config
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\bin\Debug\Kullanici_Giris_Paneli.exe
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\bin\Debug\Kullanici_Giris_Paneli.pdb
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.exe
+C:\Users\berkay\source\repos\udemy works\Kullanici_Giris_Paneli\Kullanici_Giris_Paneli\obj\Debug\Kullanici_Giris_Paneli.pdb

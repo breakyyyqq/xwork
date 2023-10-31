@@ -1,0 +1,17 @@
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+C:\Users\berkay\source\repos\udemy works\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form2.resources

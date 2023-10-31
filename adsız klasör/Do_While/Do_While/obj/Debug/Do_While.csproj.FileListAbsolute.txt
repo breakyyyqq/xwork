@@ -1,0 +1,10 @@
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.csproj.AssemblyReference.cache
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.Form1.resources
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.Properties.Resources.resources
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\berkay\source\repos\udemy works\Do_While\Do_While\obj\Debug\Do_While.pdb
